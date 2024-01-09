@@ -13,7 +13,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnakumar1102&show_icons=true&locale=en&layout=compact" alt="krishnakumar1102" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnakumar1102&show_icons=true&locale=en" alt="krishnakumar1102" /></p>- 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnakumar1102&show_icons=true&locale=en" alt="krishnakumar1102" /></p>
 <div>👋 Hi, I’m @krishnakumar1102</div>
 <div>👀 I’m interested in ...</div>
 <div>🌱 I’m currently learning ...</div>
