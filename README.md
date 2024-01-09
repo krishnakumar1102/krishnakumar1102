@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishnakumar </h1>
-<h3 align="center">A Passionate Python Full Stack Developer from India</h3>
+<h3 align="center">A Passionate Python Full Stack Developer from chennai</h3>
 
 - 📫 How to reach me **j.krishnakumar638572@gmail.com**
 
