@@ -17,4 +17,4 @@ Software Developer
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> 
 
-[![krishnakumar1102's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krishnakumar1102&bg_color=121112&color=faf9fa&line=3cd369&point=f4ecec&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![krishnakumar1102's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krishnakumar1102&bg_color=121112&color=faf9fa&line=3cd369&point=f4ecec&area=true&hide_border=true)](https://github.com/krishnakumar1102/github-readme-activity-graph)
